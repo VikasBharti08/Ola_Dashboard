@@ -4,15 +4,15 @@
 Identified the reason and trend for ride cancellation.
 
 ## Tools Used 
- -Excel
+ -Excel<br>
  -Sql 
  -Power Bi
 
 ## Key Insights 
-# -Success Rates of Booking 
-# -Cancellation pattern 
-# -Revenue Trend
-# -Payment methods 
+-Success Rates of Booking 
+-Cancellation pattern 
+-Revenue Trend
+-Payment methods 
 
 ## Sql Query With answers 
 
