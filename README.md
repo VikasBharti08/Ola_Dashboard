@@ -4,9 +4,9 @@
 Identified the reason and trend for ride cancellation.
 
 ## Tools Used 
--Excel//
--Sql //
--Power Bi// 
+-Excel
+-Sql 
+-Power Bi
 
 ## Key Insights 
 -Success Rates of Booking 
